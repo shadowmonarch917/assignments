@@ -1,0 +1,12 @@
+tags are basically helps us to convert our html document in systamatic way on web browser.
+By tags we assign role to our content how it will rendered on broweser to the users.
+most tags come in pair with opening and closing tags.For example  " <h1></h1>  ,  <title></title> , <p></p> ".
+
+                       HTML ELEMENT
+
+html element include html tags and also the content written between opening and closing tags.
+FOR Example:
+     <h1>my website<h1/>
+
+here ,<h1> is opening tag and </h1> is closing tag and "my website " is content .
+Those opening and closing tag along with content is html element.          

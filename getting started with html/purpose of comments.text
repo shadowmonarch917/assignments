@@ -1,0 +1,4 @@
+comments are used to stop the rendering of content on web.
+But the content is still available in our code it just that does not rendered on web page. 
+we can use comment by ctrl with slash to comment the content after selecting it.
+I have provided one example of it in code.

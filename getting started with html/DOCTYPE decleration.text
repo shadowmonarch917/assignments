@@ -1,0 +1,2 @@
+DOCTYPE decleration in html is a way to tell the web browser in which version of html we are writing.
+To ensure that our content/doc does not rendered much different on other web broweser,  <!DOCTYPE html> is for html 5 version.
